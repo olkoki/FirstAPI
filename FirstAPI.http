@@ -26,10 +26,10 @@ Content-Type: application/json
 
 {
   "id": 4,
-  "title": "C# eBook",
+  "title": "C# eBook 2.0",
   "author": "Alen",
   "yearPublished": 2024
 }
 
 ###
-DELETE {{rootURL}}/api/books/5
+DELETE {{rootURL}}/api/books/6
